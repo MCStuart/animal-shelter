@@ -1,7 +1,12 @@
-h2 {
-  font-size: 32px;
+ul {
+  column-count: 3;
 }
 
-.countries h2 {
-  font-style: italic;
+li {
+  width: 100%;
+}
+img {
+  width: 100%;
+  height: auto;
+  margin: 0;
 }
